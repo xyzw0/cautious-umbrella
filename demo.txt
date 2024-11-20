@@ -1,1 +1,1 @@
-Trying the Co-author tag with commit message.
+Trying the Co-author tag with commit message
